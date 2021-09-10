@@ -1,0 +1,92 @@
+body{
+  font-family: sans-serif;
+}
+.header_box{
+  width: 90px;
+  margin-top: 5px;
+}
+
+.manu_box{
+  margin-left: 30px;
+}
+
+.banner-section{
+  background: #f9f9ff;
+}
+.btn_box{
+  background: #8491ff;
+  border: 1px solid #8491ff;
+}
+
+.banner-text{
+  margin: 100px;
+}
+
+
+.number-section{ 
+  background: #8490ff;
+}
+.number-section h2{
+  font-weight: 600;
+  font-size: 40px;
+}
+
+.p-table_section{
+  background: #f9f9ff;
+  padding: 20px;
+}
+.p-table_section p{
+  font-size: 20px;
+}
+
+
+.card_box{
+  background: #f9f9ff;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  text-align: center;
+}
+.p_btn{
+  color: #8490ff;
+  border: 1px solid #8490ff;
+  font-size: 16px;
+  
+
+}
+.testimonial_section{
+  padding-top: 0px;
+}
+
+.t_c_box{
+  width: 100px;
+  margin-top: 95px;
+}
+
+.c_p{
+  font-size: 17px;
+}
+
+
+.contact-section{
+  background: #f9f9ff;
+}
+
+.form_box{
+  background: #fff;
+}
+
+.b_box{
+  background: #17a2b8!important;
+  color: #fff;
+}
+
+.contact_box{
+    margin-top: 170px;
+  
+}
+
+.footer_section{
+  background: #04091e;
+  padding: 0;
+}
